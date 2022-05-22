@@ -1,0 +1,321 @@
+{
+  "project_info": {
+    "project_number": "160616763488",
+    "firebase_url": "https://guess-games-nunoalnogueira.firebaseio.com",
+    "project_id": "guess-games-nunoalnogueira",
+    "storage_bucket": "guess-games-nunoalnogueira.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:160616763488:android:157ab68b78aa79b6",
+        "android_client_info": {
+          "package_name": "com.nunoalnogueira.guessdisneycharacters"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "160616763488-ue77btrhm8n34nganki34s4rr6hsm186.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nunoalnogueira.guessdisneycharacters",
+            "certificate_hash": "c04ed8a46fd554379b1844253930ee55b8956380"
+          }
+        },
+        {
+          "client_id": "160616763488-lh2aq7t7bhd6cm1clfvqai53b60fei2m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nunoalnogueira.guessdisneycharacters",
+            "certificate_hash": "6251cc0d6f1cdf2b4faf5435c826fd14f8ef8359"
+          }
+        },
+        {
+          "client_id": "160616763488-g6u07hoi8jkhmt6geopc5csu09tlv6km.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAsGW7zhJ5Bxd1_ofYdIg5UyPwg5be25sk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "160616763488-g6u07hoi8jkhmt6geopc5csu09tlv6km.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      },
+      "admob_app_id": "ca-app-pub-5385342330837943~1489341453"
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:160616763488:android:b068d04ebed1873e",
+        "android_client_info": {
+          "package_name": "com.nunoalnogueira.learncolorsfortoddlers"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "160616763488-ilm23f44uq2qc9qqj6cf0iuo1un0shks.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nunoalnogueira.learncolorsfortoddlers",
+            "certificate_hash": "6251cc0d6f1cdf2b4faf5435c826fd14f8ef8359"
+          }
+        },
+        {
+          "client_id": "160616763488-g6u07hoi8jkhmt6geopc5csu09tlv6km.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAsGW7zhJ5Bxd1_ofYdIg5UyPwg5be25sk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "160616763488-g6u07hoi8jkhmt6geopc5csu09tlv6km.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      },
+      "admob_app_id": "ca-app-pub-5385342330837943~6955389112"
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:160616763488:android:ee3430d13316e116",
+        "android_client_info": {
+          "package_name": "com.nunoalnogueira.learnlettersfortoddlers"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "160616763488-hb551sot6prjsrlrnpagi907hib6bnfi.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nunoalnogueira.learnlettersfortoddlers",
+            "certificate_hash": "6251cc0d6f1cdf2b4faf5435c826fd14f8ef8359"
+          }
+        },
+        {
+          "client_id": "160616763488-24n5d2pn6kba3c44vvi59ellsb3kj4ok.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nunoalnogueira.learnlettersfortoddlers",
+            "certificate_hash": "bf174ccdd1e8ddfd20004bc14d4a8dc742dd631b"
+          }
+        },
+        {
+          "client_id": "160616763488-g6u07hoi8jkhmt6geopc5csu09tlv6km.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAsGW7zhJ5Bxd1_ofYdIg5UyPwg5be25sk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "160616763488-g6u07hoi8jkhmt6geopc5csu09tlv6km.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      },
+      "admob_app_id": "ca-app-pub-5385342330837943~4355816940"
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:160616763488:android:e9621f24977747bf",
+        "android_client_info": {
+          "package_name": "com.nunoalnogueira.learnnumbersfortoddlers"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "160616763488-9rt28brbf1466gsdsno0hlsdabf41ilv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nunoalnogueira.learnnumbersfortoddlers",
+            "certificate_hash": "5675ac9085b1c7fa223aaa3919d716f67907a1b3"
+          }
+        },
+        {
+          "client_id": "160616763488-rj3flfhnohub4pp9nt85vuq7hlt9ioqr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nunoalnogueira.learnnumbersfortoddlers",
+            "certificate_hash": "6251cc0d6f1cdf2b4faf5435c826fd14f8ef8359"
+          }
+        },
+        {
+          "client_id": "160616763488-g6u07hoi8jkhmt6geopc5csu09tlv6km.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAsGW7zhJ5Bxd1_ofYdIg5UyPwg5be25sk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "160616763488-g6u07hoi8jkhmt6geopc5csu09tlv6km.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      },
+      "admob_app_id": "ca-app-pub-5385342330837943~6783773388"
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:160616763488:android:24934c16f90956ce",
+        "android_client_info": {
+          "package_name": "com.nunoalnogueira.superheroguess"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "160616763488-supd64smjrou5q7jbqu9gi949aqqe3ev.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nunoalnogueira.superheroguess",
+            "certificate_hash": "b850f1a42c7429c59aaca0f951cf98540cbf5001"
+          }
+        },
+        {
+          "client_id": "160616763488-j787j0pccasoqbqeo2l79ir04lf2lkbg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nunoalnogueira.superheroguess",
+            "certificate_hash": "6251cc0d6f1cdf2b4faf5435c826fd14f8ef8359"
+          }
+        },
+        {
+          "client_id": "160616763488-g6u07hoi8jkhmt6geopc5csu09tlv6km.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAsGW7zhJ5Bxd1_ofYdIg5UyPwg5be25sk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "160616763488-g6u07hoi8jkhmt6geopc5csu09tlv6km.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      },
+      "admob_app_id": "ca-app-pub-5385342330837943~4700508907"
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:160616763488:android:d9dc36ba35805e81",
+        "android_client_info": {
+          "package_name": "star_wars_guess.nunoalnogueira.com"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "160616763488-mes7cmbkj6eti04a30mu01sakqpsff4j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "star_wars_guess.nunoalnogueira.com",
+            "certificate_hash": "6251cc0d6f1cdf2b4faf5435c826fd14f8ef8359"
+          }
+        },
+        {
+          "client_id": "160616763488-stujn468hf07jh8jfl0u6sbabqc0vv2d.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "star_wars_guess.nunoalnogueira.com",
+            "certificate_hash": "88e3977e3df3da8079dc4f9cb7013e1f1e3dd500"
+          }
+        },
+        {
+          "client_id": "160616763488-g6u07hoi8jkhmt6geopc5csu09tlv6km.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAsGW7zhJ5Bxd1_ofYdIg5UyPwg5be25sk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "160616763488-g6u07hoi8jkhmt6geopc5csu09tlv6km.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      },
+      "admob_app_id": "ca-app-pub-5385342330837943~1680266345"
+    }
+  ],
+  "configuration_version": "1"
+}
